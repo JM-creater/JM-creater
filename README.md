@@ -21,7 +21,7 @@ I'm a passionate full stack developer dedicated to building robust, scalable sol
 - 🔭 Currently developing [School Management System](https://github.com/JM-creater/School-Management-System)
 - 👨‍💻 All my projects are available at [github.com/JM-creater](https://github.com/JM-creater)
 - 💼 Working at **Alliance Software Inc** on full-stack enterprise solutions
-- 🌱 Constantly learning and improving backend architecture patterns
+- 🌱 Continuously learning frontend and backend architecture patterns, as well as system and software architecture design
 - ⚡ Fun fact: I enjoy reading Manhwas and Mangas, and practicing code on HackerRank
 
 ---
