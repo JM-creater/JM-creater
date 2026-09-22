@@ -81,10 +81,10 @@ I'm a passionate full stack developer dedicated to building robust, scalable sol
 | Metric | Badge |
 |--------|-------|
 | GitHub Followers | ![GitHub followers](https://img.shields.io/github/followers/jm-creater?label=Followers&style=social) |
-| Repositories | ![GitHub repos](https://img.shields.io/github/repos/jm-creater?style=social) |
-| Code Quality | [![wakatime stats](https://img.shields.io/badge/Focus-Backend%20%26%20Full%20Stack-blue)](https://github.com/JM-creater) |
-| Experience | 2+ Years |
-| Location | 🇵🇭 Philippines |
+| GitHub Stars | ![GitHub stars](https://img.shields.io/github/stars/jm-creater?style=social) |
+| Focus Areas | ![Backend & FullStack](https://img.shields.io/badge/Focus-Backend%20%26%20FullStack-blue) |
+| Experience | ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen) |
+| Location | ![Location](https://img.shields.io/badge/Location-%F0%9F%87%B5%F0%9F%87%AD%20Philippines-blueviolet) |
 
 ---
 
