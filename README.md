@@ -70,7 +70,7 @@ I'm a passionate full stack developer dedicated to building robust, scalable sol
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
@@ -96,7 +96,7 @@ I'm a passionate full stack developer dedicated to building robust, scalable sol
 - ✅ **Full Stack Solutions:** End-to-end application development
 - ✅ **Problem Solving:** Complex business logic implementation
 - ✅ **DevOps & Tools:** Docker, Git, Postman, Figma
-- ✅ **Mobile Development:** Flutter
+- ✅ **Mobile Development:** React Native
 - ✅ **API Development & Integration:** RESTful APIs
 
 ---
