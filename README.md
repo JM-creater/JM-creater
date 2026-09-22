@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jm-creater&label=Profile%20views&color=0e75b6&style=flat" alt="jm-creater" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=jm-creater](https://github-profile-trophy.vercel.app/?username=jm-create&theme=dracula)" alt="jm-creater" /></a> </p> 
+<p align="left"> <a href="https://github.com/jm-creater/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jm-creater&theme=dracula" /></a> </p> 
 <!-- https://github-profile-trophy.vercel.app/?username=jm-create&theme=dracula -->
 <p align="left"> <a href="https://twitter.com/garadomartin" target="blank"><img src="https://img.shields.io/twitter/follow/garadomartin?logo=twitter&style=for-the-badge" alt="garadomartin" /></a> </p>
 
